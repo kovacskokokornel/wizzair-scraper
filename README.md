@@ -1,5 +1,5 @@
 # Wizzair scraper
-This folder contains python scripts to automatically scrape flight data (mainly prices) from <https://wizzair.com>. There are two types of code with different detail level.
+This folder contains python scripts to automatically scrape flight data (mainly prices) from <https://wizzair.com>. There are two types of codes with different level of details.
 
 ## Timetable approach
 
